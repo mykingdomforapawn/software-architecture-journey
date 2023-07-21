@@ -1,1 +1,40 @@
-<mxfile host="Electron" modified="2022-12-31T12:57:31.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.7.4 Chrome/106.0.5249.199 Electron/21.3.3 Safari/537.36" etag="kVZlVIgLTzxnCQbRFLRX" version="20.7.4" type="device"><diagram id="rMvdf8qOIr-5ktG2nBTj" name="Page-1">3Zhdb5swFIZ/DZetAIPjXHa066apa6VU3bUxB7AKODqYJumvn02cL0GnTWJK1FwQ8/r7ee1jwCNJvb5HviwfVAaVF/rZ2iO3XhgGUcDMn1U2W4WFTihQZq7QQVjId3Ci79ROZtCeFNRKVVouT0WhmgaEPtE4olqdFstVddrrkhcwEBaCV0P1l8x06WYR+wf9G8ii3PUc+C4n5eK1QNU1rj8vJHn/22bXfNeWK9+WPFOrI4nceSRBpfQ2Va8TqCzbHbZtva8f5O7HjdDov6nw416yq+g5WCT8JalvlmyZwJVr5Y1XnePxhKpAXteyKdy49WbHqp8t2PZ8j3xZlVLDYsmFzV2Z1WG0UteVuQtMMpdVlahKYV+XZBxYLozealSvcJRDBYM0NzluLIAa1h9OMtijM0sSVA0aN6aIq0AjR9utRrJza3XwNqBOK498nTuNu+VU7Js+IDUJR/UfCIcDwjcoLDmhOwTPmkZ5bdltr0a5hVYWjUk8ca0Bm3ZaI2JgWTRmBAtTQuk0RjD/0owgAyOSTQpopAWIDqXeTIo5z4GK0fWezeap70+DOQjCS+McDTg/lwhcG+17o00DsoDGMPwMsOfnhh0PYH+xqdB/Bj55CD8T5Xh2bsp0SLlrZQNta6O1qrm0MXokkj9iwRv5zrVUDbfdLDR2LvBPakwefmAMTWk8UUif00sLNbOBLz9BrxS+9is/6SNOjrw9QB/x6KniOldYT3vKQmDO2dmYJXM6I3wiSwJzzl6YJ+xPe+WFb6PT0IWka7UZgT2OEzN5lGLyA5kJGN8kKYujeKroFV3cE+h84Mhj2gK+8VRWPWS7UR5UI7XC/ca5MfFqo6WYdlekPhCgYx74wHzGJvKAXtzD5+5t9/hFy8wGWv1JDumInR3x8F32+vr6M7Cl9P+xNbeHTxB93tF3HnL3Gw==</diagram></mxfile>
+<mxfile host="Electron" modified="2023-07-21T16:12:05.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="hxb1_hV4_iOi4FEMtUxr" version="21.6.1" type="device">
+  <diagram id="rMvdf8qOIr-5ktG2nBTj" name="Page-1">
+    <mxGraphModel dx="2403" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KGi8-4T1SCaVCmAp8pCe-1" value="Programming &amp;amp; Scripting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGi8-4T1SCaVCmAp8pCe-2" value="Architecture &amp;amp; Design Patterns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="390" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGi8-4T1SCaVCmAp8pCe-3" value="Computer Security" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGi8-4T1SCaVCmAp8pCe-7" value="Cloud Platforms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="710" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KGi8-4T1SCaVCmAp8pCe-8" value="Business Value &amp;amp; Customer Centricity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDwtIqG1vuOme2gipTEX-1" value="Computer Science Basics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDwtIqG1vuOme2gipTEX-2" value="System Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDwtIqG1vuOme2gipTEX-3" value="Databases" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDwtIqG1vuOme2gipTEX-4" value="Software Frameworks &amp;amp; Developer Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDwtIqG1vuOme2gipTEX-7" value="..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="520" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
