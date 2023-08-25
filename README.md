@@ -25,7 +25,7 @@ The following sections will provide an overview of the projects, exercises, and 
 ## Programming & Scripting
 Having programming basics as a software architect is important because it provides a fundamental understanding of the underlying technology, enabling effective communication with developers, accurate assessment of technical feasibility, and informed decision-making in architectural designs.
 
-The diagram shows some projects that i worked on and summarizes how they contributed to me gaining a better understanding of the respective domain.
+The diagram shows some projects that I worked on and summarizes how they contributed to me gaining a better understanding of the respective domain.
 
 ![Programming Journey](programming_journey.drawio.png)
 
@@ -35,6 +35,15 @@ The diagram shows some projects that i worked on and summarizes how they contrib
 ## Architecture Patterns & Software Design
 
 ## Cloud Platforms
+Embracing cloud platforms is essential for architects to efficiently design, deploy, and manage modern software systems in today's technology-driven world.
+
+The diagram below represents the initial stages of my journey into cloud computing, showcasing the essential building blocks and certifications that have played pivotal roles.
+
+![Programming Journey](platform_journey.drawio.png)
+
+- https://github.com/mykingdomforapawn/aws-lambda-iam-audit
+- https://github.com/mykingdomforapawn/aws-alb-oidc-integration
+- https://github.com/mykingdomforapawn/aws-cdk-sandbox
 
 
 ## Resources
