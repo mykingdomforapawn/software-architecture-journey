@@ -13,7 +13,6 @@ This repository aims to serve as a summary of topics that I believe are crucial 
 ---
 
 ## The T-Profile
-
 The T-Profile visualizes my concept of a software architect's skill profile. The horizontal bar of the "T" represents the breadth of knowledge that a software architect should possess. It signifies the ability to comprehend and integrate multiple areas within information technology, such as software development methodologies, system architecture, security, databases, networking, and user experience design. The vertical bar of the "T" symbolizes the depth of expertise in a specific domain. Architects focus on acquiring advanced knowledge and skills in one particular area, becoming specialists in fields like cloud computing, mobile applications, artificial intelligence, data analytics, or enterprise systems.
 
 By combining breadth and depth, the T-Profile represents a well-rounded software architect. They possess the ability to comprehend the bigger picture of software systems while also providing expert guidance in a specific domain.
@@ -32,14 +31,22 @@ The diagram shows some projects that I worked on and summarizes how they contrib
 - https://github.com/mykingdomforapawn/simple-portfolio
 - https://github.com/mykingdomforapawn/refactored-portfolio
 
-## Architecture Patterns & Software Design
+## Software & Developer Tools
+To design a system, it is crucial to be familiar with the underlying software components and developer tools, as this knowledge forms the foundation for making informed architectural decisions and ensuring seamless integration of various system elements.
+
+The diagram below shows some basic software and developer tools and small projects I implemented to get familiar with them.
+
+![Tool Journey](tool_journey.drawio.png)
+
+
+## Architecture & Design Patterns
 
 ## Cloud Platforms
 Embracing cloud platforms is essential for architects to efficiently design, deploy, and manage modern software systems in today's technology-driven world.
 
 The diagram below represents the initial stages of my journey into cloud computing, showcasing the essential building blocks and certifications that have played pivotal roles.
 
-![Programming Journey](platform_journey.drawio.png)
+![Platform Journey](platform_journey.drawio.png)
 
 - https://github.com/mykingdomforapawn/aws-lambda-iam-audit
 - https://github.com/mykingdomforapawn/aws-alb-oidc-integration
