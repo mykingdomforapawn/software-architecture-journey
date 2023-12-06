@@ -48,9 +48,9 @@ This diagram illustrates several projects undertaken to gain familiarity with th
 
 - https://gitlab.com/cicd-sandbox1/my-first-pipeline
 - https://gitlab.com/cicd-sandbox1/my-staging-pipeline
-- https://gitlab.com/cicd-sandbox1/my-aws-pipeline
+- https://gitlab.com/cicd-sandbox1/my-aws-auth-pipeline
 - https://gitlab.com/cicd-sandbox1/my-docker-pipeline
-- https://gitlab.com/cicd-sandbox1/my-complex-pipeline
+- https://gitlab.com/cicd-sandbox1/my-aws-integration-pipeline
 
 ## Architecture & Design Patterns
 tbd
