@@ -33,6 +33,7 @@ The diagram shows some projects that I worked on and summarizes how they contrib
 
 - https://github.com/mykingdomforapawn/simple-portfolio
 - https://github.com/mykingdomforapawn/refactored-portfolio
+- https://github.com/mykingdomforapawn/shell-script-automation
 
 
 ## Computer Science Basics
